@@ -1,0 +1,44 @@
+  
+  
+{
+    "Date": [
+        {
+            "Value": "2021/05/06 9:00h"
+        }
+    ],
+    "Temperature": [
+        {
+            "Value": "12",
+            "Hour": "9:00",
+            "Plant": 1
+        }
+    ],
+    "Noise": [
+        {
+            "Value": "30",
+            "Hour": "9:00",
+            "Plant": 1
+        }
+    ],
+    "CO2": [
+        {
+            "Value": "2000",
+            "Hour": "9:00",
+            "Plant": 1
+        }
+    ],
+    "Light": [
+        {
+            "Value": "100",
+            "Hour": "9:00",
+            "Plant": 1
+        }
+    ],
+    "Humidity": [
+        {
+            "Value": "60",
+            "Hour": "9:00",
+            "Plant": 1
+        }
+    ]
+}
